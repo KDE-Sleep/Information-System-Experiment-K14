@@ -10,6 +10,8 @@
 > 実験用のソースコードなどの配布は，別のPrivateリポジトリで行います．  
 > 質問がある場合は，[horie@cs.tsukuba.ac.jp](mailto:horie@cs.tsukuba.ac.jp)まで．
 
+[<img width="512" height="288" alt="image" src="https://github.com/user-attachments/assets/7f8df87b-848d-4469-8c93-0b994e525858" />](https://www.youtube.com/watch?v=j2iZmZNPy4A&t=85s)
+
 ---
 ## 大まかな内容
 
